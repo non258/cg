@@ -1,3 +1,0 @@
-/home/nozomi/CLionProjects/cg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/nozomi/CLionProjects/cg/cmake-build-debug/CMakeFiles/cg.dir
-/home/nozomi/CLionProjects/cg/cmake-build-debug/CMakeFiles/edit_cache.dir
