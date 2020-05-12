@@ -1,0 +1,1 @@
+/usr/bin/mpic++  -g   CMakeFiles/cg.dir/main.cpp.o  -o cg 

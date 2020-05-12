@@ -1,0 +1,4 @@
+/home/nozomi/.bin/clion-2019.1.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/mpic++ -G "CodeBlocks - Unix Makefiles" /home/nozomi/CLionProjects/cg
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nozomi/CLionProjects/cg/cmake-build-debug
